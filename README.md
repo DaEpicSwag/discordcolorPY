@@ -1,7 +1,7 @@
 # discordcolorPY
 Small color library for discord.py
 
-#Use
+# Use
 ```python
 
 """ COLORS:
