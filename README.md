@@ -30,7 +30,7 @@ treyple
 """
 
 import dcolors
-import discordpy
+import discord
 
 @bot.command()
 async def test(ctx):
